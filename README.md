@@ -33,7 +33,7 @@ Desenvolvedor Fullstack.</h1>
 
 <br>
 <div style="margin: 1rem;  justify-content: center;">
-  <a href="https://github.comldjmoreira">
+  <a href="https://github.com/ldjmoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ldjmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldjmoreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>

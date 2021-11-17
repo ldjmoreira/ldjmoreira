@@ -7,9 +7,9 @@ Desenvolvedor Fullstack.</h1>
 <h2>❤️ Apaixonado por tecnologia.</h2>
 
 <p style="display: flex; flex-direction: column">
- 🔭 Bacharel em ciências exatas e tecnológicas.
- 🌱 Tecnologo em Análise e desenvolvimento de sistemas
- 📫 vocês podem me contactar pelo email: ldjmoreira@hotmail.com
+ 🔭 Bacharel em ciências exatas e tecnológicas.<br/>
+ 🌱 Tecnologo em Análise e desenvolvimento de sistemas.<br/>
+ 📫 vocês podem me contactar pelo email: ldjmoreira@hotmail.com.<br/>
 </p>
 </div>
 <hr>

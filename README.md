@@ -43,7 +43,7 @@ Desenvolvedor Fullstack.</h1>
 <div style="display: flex; margin: 1rem;  justify-content: center;>
 
 <a href="https://www.linkedin.com/in/lorionmoreira/" target = "_blank_">
- <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
 

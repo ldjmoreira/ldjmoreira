@@ -11,6 +11,7 @@ Desenvolvedor Fullstack.</h1>
  🌱 Tecnologo em Análise e desenvolvimento de sistemas.<br/>
  📫 Email: ldjmoreira@hotmail.com.<br/>
  📫 LINKEDIN: www.linkedin.com/in/devlorionmoreira
+ 📫 Site Pessoal: http://lorionproetos.ddns.net
 </p>
 </div>
 <hr>

@@ -10,7 +10,7 @@ Desenvolvedor Fullstack.</h1>
  🔭 Bacharel em ciências exatas e tecnológicas.<br/>
  🌱 Tecnologo em Análise e desenvolvimento de sistemas.<br/>
  📫 Email: ldjmoreira@hotmail.com.<br/>
- 📫 LINKEDIN: www.linkedin.com/in/devlorionmoreira
+ 📫 LINKEDIN: www.linkedin.com/in/devlorionmoreira<br/>
  📫 Site Pessoal: http://lorionproetos.ddns.net
 </p>
 </div>
